@@ -1,0 +1,27 @@
+.container1{
+    margin:  50px 50px;
+}
+img{
+    width: 50%;
+    height: 100px;
+}
+
+body{
+    background-color: darkviolet;
+display: block;
+text-align: center;
+}
+label{
+display: block;
+}
+
+.container{
+background-color: grey;
+border-radius: 25px;
+margin: 90px 600px;
+font-family: ;
+color: white;
+}
+button{
+    background-color: yellowgreen;
+}
